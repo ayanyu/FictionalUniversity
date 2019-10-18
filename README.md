@@ -7,4 +7,9 @@
 ![](Screen%20Shot%202019-10-18%20at%2011.03.01%20AM.png)
 ![](Screen%20Shot%202019-10-18%20at%2011.03.13%20AM.png)
 <h2> I have also used PHP to add parent and child page links to the about us page and privacy page. One of the challenges I originally faced in the beginning is linking the pages together but once I learned the pattern I was able to add the similar idea to the rest of the pages.</h2>
-<h2> I'm currently using the local by flywheel as my local server to work on my project. </h2>
+
+![]()
+
+
+<h2>60% Completed : Will be adding live search and log in/sign up function before deploying it.</h2>
+<h2> Extra: I'm currently using the local by flywheel as my local server to work on my project. </h2>
